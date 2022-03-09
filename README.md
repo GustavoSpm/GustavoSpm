@@ -1,6 +1,7 @@
 Hi there! 👋
 
 - 🔭 I’m currently a Software Engineer student
+- 💼🦅 I'm currently a Fullstack Intern at Arpia
 - 🌱 I’m currently learning Python,Postgrees, React, HTML and CSS
 - 📫 How to reach me: gustavospm14@gmail.com
 
